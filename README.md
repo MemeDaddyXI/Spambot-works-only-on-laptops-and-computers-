@@ -1,0 +1,2 @@
+# Spambot-works-only-on-laptops-and-computers-
+This is a spambot which I have created using wshell. Its a .vbs file. Download it. Right click and choose edit with notepad. Where it is written "Your Message" delete it. Don't delete the commas write your text between the commas. After that save it and then launch the file. Then go to messenger(any chat app) and click on the text box and it will start spamming! Also you can edit the number of time text is spammed but don't go over 10000. Your computer might crash.
